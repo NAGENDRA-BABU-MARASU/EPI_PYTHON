@@ -4,8 +4,7 @@ from test_framework import generic_test
 
 
 def examine_buildings_with_sunset(sequence: Iterator[int]) -> List[int]:
-    # TODO - you fill in here.
-    return []
+    
 
 
 def examine_buildings_with_sunset_wrapper(sequence):
